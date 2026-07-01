@@ -1,0 +1,26 @@
+{
+  "citations": [
+    "[openai.com](https://openai.com/index/genspark/)",
+    "[blog.google](https://blog.google/)",
+    "[fastcompany.com](https://www.fastcompany.com/)",
+    "[businesswire.com](https://www.businesswire.com/)",
+    "[darkreading.com](https://www.darkreading.com/)"
+  ],
+  "design_plan": "rng=42; architecture=reuse_comparison_layout; AIDA=pass; hero_math=1120px_2-3_lines; bento_density=grid-auto-flow:dense; label_sweep=competitors_present; button_contrast=black_white_pills",
+  "generated_at": "2026-07-01T06:41:08.588490+00:00",
+  "headline": "Super for local service businesses handling bookings, quotes, and customer replies",
+  "site_brief": {
+    "audience": "local service businesses handling bookings, quotes, and customer replies",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "local service businesses handling bookings, quotes, and customer replies AI assistant",
+      "local service businesses handling bookings, quotes, and customer replies personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-local-service-businesses-handling-bookings-quote",
+    "title": "Super for local service businesses handling bookings, quotes, and customer replies"
+  },
+  "summary": "A conversion\u2011focused niche landing page for local service businesses that need fast bookings, accurate quotes, and reliable customer replies. The page positions Super as a sharper alternative for repeated, real computer work \u2014 using a reusable computer-use cache \u2014 while grounding the market context in recent reporting on agentic AI, computer\u2011use assistants, and workflow automation."
+}
